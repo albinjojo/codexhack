@@ -5,7 +5,7 @@
     "latitude": 10.0274,
     "longitude": 76.3089,
     "wasteTypes": ["plastic", "paper", "general"],
-    "status": "available",
+    "status": "full",
     "verified": true,
     "lastReported": "2026-07-17"
   },
@@ -15,7 +15,7 @@
     "latitude": 10.0265,
     "longitude": 76.3082,
     "wasteTypes": ["plastic", "general"],
-    "status": "available",
+    "status": "unknown",
     "verified": true,
     "lastReported": "2026-07-18"
   },
@@ -35,7 +35,7 @@
     "latitude": 9.9682,
     "longitude": 76.3217,
     "wasteTypes": ["plastic", "paper", "general"],
-    "status": "available",
+    "status": "unknown",
     "verified": true,
     "lastReported": "2026-07-18"
   },
