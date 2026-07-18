@@ -44,7 +44,7 @@ function formatStatus(status) {
   return status.charAt(0).toUpperCase() + status.slice(1);
 }
 
-export default function Map({ route = [], start, destination, bins = [] }) {
+export default function Map({ route = [], start, destination, bins = [], onReportFull }) {
   return (
     <MapContainer center={[9.991, 76.297]} zoom={12} scrollWheelZoom={false} className="h-[440px] w-full" aria-label="Map of waste-bin locations around Kochi">
       <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
@@ -53,7 +53,7 @@ export default function Map({ route = [], start, destination, bins = [] }) {
       {start && <Marker position={[start.latitude, start.longitude]} icon={startIcon}><Popup><strong>Start:</strong> {start.name}</Popup></Marker>}
       {destination && <Marker position={[destination.latitude, destination.longitude]} icon={destinationIcon}><Popup><strong>Destination:</strong> {destination.name}</Popup></Marker>}
       {bins.map((bin) => <Marker key={bin.id} position={[bin.latitude, bin.longitude]} icon={createBinIcon(bin.status)}>
-        <Popup><div className="min-w-52 p-1 text-sm text-slate-700"><h3 className="font-bold text-slate-900">{bin.name}</h3><p className="mt-2"><span className="font-semibold">Accepts:</span> {bin.wasteTypes.join(", ")}</p><p className="mt-1"><span className="font-semibold">Status:</span> {formatStatus(bin.status)}</p><p className="mt-1"><span className="font-semibold">Distance from route:</span> {Math.round(bin.routeDistance * 1000)} m</p></div></Popup>
+        <Popup><div className="min-w-52 p-1 text-sm text-slate-700"><div className="flex items-start gap-2"><h3 className="font-bold text-slate-900">{bin.name}</h3>{bin.official && <span className="rounded-full bg-emerald-100 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-emerald-800">Official</span>}</div><p className="mt-2"><span className="font-semibold">Accepts:</span> {bin.wasteTypes.join(", ")}</p><p className="mt-1"><span className="font-semibold">Status:</span> {formatStatus(bin.status)}</p><p className="mt-1"><span className="font-semibold">Distance from route:</span> {Math.round(bin.routeDistance * 1000)} m</p><button type="button" onClick={() => onReportFull?.(bin.id)} className="mt-3 rounded-md bg-rose-50 px-2.5 py-1.5 text-xs font-bold text-rose-700 hover:bg-rose-100">Report bin full</button></div></Popup>
       </Marker>)}
     </MapContainer>
   );
