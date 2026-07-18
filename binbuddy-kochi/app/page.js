@@ -57,7 +57,7 @@ export default function Home() {
                 BinBuddy makes it simple to dispose of everyday waste the right way, wherever your day takes you in Kochi.
               </p>
               <a
-                href="#waste-types"
+                href="#how-it-works"
                 className="mt-8 inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3.5 font-semibold text-emerald-800 shadow-lg shadow-emerald-950/20 transition hover:-translate-y-0.5 hover:bg-emerald-50"
               >
                 Find a bin <span aria-hidden="true">→</span>
