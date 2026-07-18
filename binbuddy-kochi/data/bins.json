@@ -118,5 +118,305 @@
     "status": "available",
     "verified": true,
     "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-013",
+    "name": "Lulu Mall East Parking Recycling Bin",
+    "latitude": 10.0286,
+    "longitude": 76.3099,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-014",
+    "name": "Edappally Toll Junction Bin",
+    "latitude": 10.0253,
+    "longitude": 76.316,
+    "wasteTypes": ["general", "food"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-10"
+  },
+  {
+    "id": "kochi-015",
+    "name": "Kaloor Stadium Road Recycling Bin",
+    "latitude": 9.9972,
+    "longitude": 76.2918,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-016",
+    "name": "Kaloor Bus Stand Bin",
+    "latitude": 9.9927,
+    "longitude": 76.2934,
+    "wasteTypes": ["general", "food"],
+    "status": "full",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-017",
+    "name": "Palarivattom Metro Entrance Bin",
+    "latitude": 9.9991,
+    "longitude": 76.3028,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-018",
+    "name": "Palarivattom Pipeline Road Bin",
+    "latitude": 10.003,
+    "longitude": 76.306,
+    "wasteTypes": ["general", "plastic"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-08"
+  },
+  {
+    "id": "kochi-019",
+    "name": "Vyttila Mobility Hub Food Bin",
+    "latitude": 9.9689,
+    "longitude": 76.3212,
+    "wasteTypes": ["food", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-020",
+    "name": "Vyttila Junction Public Bin",
+    "latitude": 9.9661,
+    "longitude": 76.321,
+    "wasteTypes": ["general", "plastic"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-021",
+    "name": "Infopark Main Gate Recycling Bin",
+    "latitude": 10.0095,
+    "longitude": 76.3641,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-022",
+    "name": "Kakkanad Civil Station Bin",
+    "latitude": 10.0175,
+    "longitude": 76.3533,
+    "wasteTypes": ["general", "paper"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-09"
+  },
+  {
+    "id": "kochi-023",
+    "name": "Shenoys Junction Recycling Bin",
+    "latitude": 9.9773,
+    "longitude": 76.286,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-024",
+    "name": "MG Road Convent Junction Bin",
+    "latitude": 9.9739,
+    "longitude": 76.287,
+    "wasteTypes": ["general", "food"],
+    "status": "full",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-025",
+    "name": "Marine Drive Rainbow Bridge Bin",
+    "latitude": 9.9827,
+    "longitude": 76.278,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-026",
+    "name": "Marine Drive Walkway Bin",
+    "latitude": 9.981,
+    "longitude": 76.281,
+    "wasteTypes": ["general", "plastic"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-027",
+    "name": "Ernakulam South Metro Exit Bin",
+    "latitude": 9.9714,
+    "longitude": 76.2883,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-028",
+    "name": "Ernakulam South Station Food Bin",
+    "latitude": 9.9705,
+    "longitude": 76.2889,
+    "wasteTypes": ["food", "general"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-11"
+  },
+  {
+    "id": "kochi-029",
+    "name": "Fort Kochi Beach Recycling Bin",
+    "latitude": 9.9657,
+    "longitude": 76.2424,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-030",
+    "name": "Fort Kochi Bus Terminal Bin",
+    "latitude": 9.962,
+    "longitude": 76.2417,
+    "wasteTypes": ["general", "food"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-031",
+    "name": "Mattancherry Palace Public Bin",
+    "latitude": 9.957,
+    "longitude": 76.2603,
+    "wasteTypes": ["general", "plastic"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-15"
+  },
+  {
+    "id": "kochi-032",
+    "name": "Mattancherry Jew Town Bin",
+    "latitude": 9.9563,
+    "longitude": 76.2592,
+    "wasteTypes": ["paper", "general"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-07"
+  },
+  {
+    "id": "kochi-033",
+    "name": "Kadavanthra Metro Station Bin",
+    "latitude": 9.9709,
+    "longitude": 76.2988,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-034",
+    "name": "Kadavanthra Junction Bin",
+    "latitude": 9.9668,
+    "longitude": 76.3015,
+    "wasteTypes": ["general", "food"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-035",
+    "name": "Panampilly Nagar Park Recycling Bin",
+    "latitude": 9.9661,
+    "longitude": 76.2976,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-036",
+    "name": "Panampilly Nagar Food Street Bin",
+    "latitude": 9.9646,
+    "longitude": 76.2957,
+    "wasteTypes": ["food", "general"],
+    "status": "full",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-037",
+    "name": "Tripunithura Metro Station Bin",
+    "latitude": 9.9454,
+    "longitude": 76.349,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-038",
+    "name": "Tripunithura Market Food Bin",
+    "latitude": 9.9452,
+    "longitude": 76.3505,
+    "wasteTypes": ["food", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-039",
+    "name": "Aluva Metro Station Recycling Bin",
+    "latitude": 10.1089,
+    "longitude": 76.3501,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-040",
+    "name": "Aluva KSRTC Stand Bin",
+    "latitude": 10.1073,
+    "longitude": 76.3511,
+    "wasteTypes": ["general", "food"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-10"
+  },
+  {
+    "id": "kochi-041",
+    "name": "CUSAT Metro Station Recycling Bin",
+    "latitude": 10.0444,
+    "longitude": 76.3184,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-042",
+    "name": "CUSAT Campus Main Gate Bin",
+    "latitude": 10.0467,
+    "longitude": 76.3275,
+    "wasteTypes": ["general", "plastic"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
   }
 ]
