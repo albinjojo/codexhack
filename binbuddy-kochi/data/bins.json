@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kochi-001",
+    "name": "Lulu Mall Main Entrance Bin",
+    "latitude": 10.0274,
+    "longitude": 76.3089,
+    "wasteTypes": ["plastic", "paper", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-002",
+    "name": "Edappally Metro Station Exit",
+    "latitude": 10.0265,
+    "longitude": 76.3082,
+    "wasteTypes": ["plastic", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-003",
+    "name": "Edappally Church Road Collection Point",
+    "latitude": 10.0301,
+    "longitude": 76.3107,
+    "wasteTypes": ["food", "general"],
+    "status": "full",
+    "verified": false,
+    "lastReported": "2026-07-15"
+  },
+  {
+    "id": "kochi-004",
+    "name": "Vyttila Mobility Hub Bay 2",
+    "latitude": 9.9682,
+    "longitude": 76.3217,
+    "wasteTypes": ["plastic", "paper", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-005",
+    "name": "Marine Drive Boat Jetty Bin",
+    "latitude": 9.9819,
+    "longitude": 76.2786,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-16"
+  },
+  {
+    "id": "kochi-006",
+    "name": "Marine Drive Children’s Park Bin",
+    "latitude": 9.9841,
+    "longitude": 76.2797,
+    "wasteTypes": ["plastic", "general"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-09"
+  },
+  {
+    "id": "kochi-007",
+    "name": "Fort Kochi Chinese Fishing Nets Bin",
+    "latitude": 9.9661,
+    "longitude": 76.2427,
+    "wasteTypes": ["plastic", "paper", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-008",
+    "name": "Kakkanad Civil Station Entrance",
+    "latitude": 10.0162,
+    "longitude": 76.3525,
+    "wasteTypes": ["paper", "general"],
+    "status": "full",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-009",
+    "name": "Kaloor Metro Station Forecourt",
+    "latitude": 9.9942,
+    "longitude": 76.2927,
+    "wasteTypes": ["plastic", "paper", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  },
+  {
+    "id": "kochi-010",
+    "name": "Palarivattom Junction Bin",
+    "latitude": 9.9994,
+    "longitude": 76.3024,
+    "wasteTypes": ["plastic", "food", "general"],
+    "status": "unknown",
+    "verified": false,
+    "lastReported": "2026-07-11"
+  },
+  {
+    "id": "kochi-011",
+    "name": "MG Road Metro Station Bin",
+    "latitude": 9.9788,
+    "longitude": 76.2864,
+    "wasteTypes": ["plastic", "paper"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-17"
+  },
+  {
+    "id": "kochi-012",
+    "name": "Ernakulam South Station Entrance",
+    "latitude": 9.9699,
+    "longitude": 76.2885,
+    "wasteTypes": ["plastic", "food", "general"],
+    "status": "available",
+    "verified": true,
+    "lastReported": "2026-07-18"
+  }
+]
